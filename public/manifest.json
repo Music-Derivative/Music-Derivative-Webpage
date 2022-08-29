@@ -3,6 +3,21 @@
   "short_name": "Starter Kit",
   "icons": [
     {
+      "src": "/icon16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    }
+    {
+      "src": "/icon32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    }
+    {
+      "src": "/icon96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    }
+    {
       "src": "/icon550.png",
       "type": "image/png",
       "sizes": "550x550"
