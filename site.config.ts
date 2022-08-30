@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Music Derivative',
+  name: 'Inflextion Music',
   domain: 'https://rt23456p.notion.site/Music-Derivative-3a57c1cea01c4b218d80a7ebb7518a5f',
-  author: 'Music Derivative Team',
+  author: 'Inflextion Music Team',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: '',
   github: '',
-  linkedin: '',
+  linkedin: 'Music_Inflexion',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
