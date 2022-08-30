@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Inflextion Music',
-  domain: 'https://rt23456p.notion.site/Music-Derivative-3a57c1cea01c4b218d80a7ebb7518a5f',
+  domain: 'https://rt23456p.notion.site/Inflexion-Music-Landing-3a57c1cea01c4b218d80a7ebb7518a5f',
   author: 'Inflextion Music Team',
 
   // open graph metadata (optional)
