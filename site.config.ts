@@ -50,8 +50,6 @@ export default siteConfig({
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
   navigationStyle: 'default'
-<<<<<<< HEAD
-=======
   // navigationStyle: 'custom',
   // navigationLinks: [
   //   {
@@ -63,5 +61,4 @@ export default siteConfig({
   //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
   //   }
   // ]
->>>>>>> parent of 01f0fac (Update site.config.ts)
 })
