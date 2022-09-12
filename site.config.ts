@@ -18,3 +18,4 @@ export default siteConfig({
   isRedisEnabled: false,
   pageUrlOverrides: null,
   navigationStyle: 'default'
+})
