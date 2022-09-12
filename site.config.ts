@@ -7,7 +7,7 @@ export default siteConfig({
 
   name: 'Inflextion Music',
   domain: 'https://rt23456p.notion.site/Inflexion-Music-Landing-3a57c1cea01c4b218d80a7ebb7518a5f',
-  author: 'Evan Xia ',
+  author: 'Music Inflexion',
 
   description: 'Example Next.js Notion Starter Kit Site',
 
