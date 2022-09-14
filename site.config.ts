@@ -21,7 +21,7 @@ export default siteConfig({
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
-  isPreviewImageSupportEnabled: false,
+  isPreviewImageSupportEnabled: true,
 
   isRedisEnabled: false,
 
